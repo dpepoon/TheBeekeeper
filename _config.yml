@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Hyde
 tagline:          'TheBeekeeper'
 description:      'A Webpage about beekeeping in the US'
-url:              https://dpepoon.github.io
+url:              https://github.com/dpepoon
 baseurl:          /TheBeekeeper/
 
 author:
