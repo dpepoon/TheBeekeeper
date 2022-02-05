@@ -10,8 +10,8 @@ permalink:        pretty
 title:            TheBeekeeper
 tagline:          'TheBeekeeper'
 description:      'A Webpage about beekeeping in the US'
-url:              https://dpepoon.github.io/TheBeekeeper/
-baseurl:          https://dpepoon.github.io/TheBeekeeper/
+url:              https://dpepoon.github.io
+baseurl:          /TheBeekeeper
 
 author:
   name:           'Dale Pepoon'
