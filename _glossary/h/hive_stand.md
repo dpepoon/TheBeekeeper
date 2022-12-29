@@ -1,6 +1,6 @@
 title: Hive stand
 layout: definition
-brief: The thing that the hive stand on.  There are many different kinds of hive stands.
+brief: The thing that the hive stands on.  There are many different kinds of hive stands.
 see_also:
   - title: Smoker
     file: smoker
