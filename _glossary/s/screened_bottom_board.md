@@ -1,5 +1,5 @@
 ---
-title: Screened bottom board
+title: Screened Bottom Board
 layout: definition
 brief:  Device used as the bottom of the honeybee hive.  The bottom board provides the support to the hive and the entrance to the hive.  The screened bottom board has the supports on the sides but the middle is all a screen.  It is a tool used in an Integrated Pest Management (IPM) plan to help control the varoa mite.
 see_also:
